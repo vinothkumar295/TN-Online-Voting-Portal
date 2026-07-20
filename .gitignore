@@ -1,6 +1,1 @@
-# Compiled Java binaries
-bin/
-*.class
-
-# Log files
-*.log
+# Track all project files
