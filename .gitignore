@@ -1,1 +1,5 @@
-# Track all project files
+bin/
+venv/
+__pycache__/
+*.pyc
+.env
