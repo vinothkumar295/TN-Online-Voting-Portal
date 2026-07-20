@@ -1,5 +1,6 @@
+# Compiled Java binaries
 bin/
-venv/
-__pycache__/
-*.pyc
-.env
+*.class
+
+# Log files
+*.log
