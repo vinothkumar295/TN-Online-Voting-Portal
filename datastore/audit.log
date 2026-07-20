@@ -1,0 +1,8 @@
+[2026-07-20 15:19:46] SYSTEM: Initialized default admin account.
+[2026-07-20 15:19:46] SYSTEM: Seeded Tamil Nadu election candidates (DMK, AIADMK, TVK, NTK, BJP).
+[2026-07-20 15:22:32] REGISTRATION: Registered voter (MS******07) in District: Karur (OTP Verified)
+[2026-07-20 15:22:39] LOGIN SUCCESS: Voter logged in (MS******07)
+[2026-07-20 15:22:49] VOTE CAST: Anonymous ballot cast by masked voter ID MS******07
+[2026-07-20 15:23:19] LOGIN SUCCESS: Voter logged in (MS******07)
+[2026-07-20 15:23:36] LOGIN FAILED: Non-existent voter ID attempted.
+[2026-07-20 15:23:41] LOGIN SUCCESS: Voter logged in (MS******07)
